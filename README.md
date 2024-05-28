@@ -78,8 +78,8 @@ The amount of wins each quarterback has when they have started a game.
 
 |Tall|Wins|
 |----|----|
-|False|31.464115|
-|True|35.852535|
+|False|31.46|
+|True|35.85|
 
 
 ### Sacks

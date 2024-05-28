@@ -4,7 +4,8 @@ Analysis of height versus different factors, data from quarterbacks 1920, exclud
 
 Data was taken from [Stathead](https://stathead.com/football/player-season-finder.cgi?request=1&match=player_season_combined&order_by=height&year_min=2010&year_max=2023&positions%5B%5D=qb&ccomp%5B1%5D=gt&cval%5B1%5D=6&cstat%5B1%5D=games_started&ccomp%5B2%5D=gt&cval%5B2%5D=0&cstat%5B2%5D=pass_cmp&ccomp%5B3%5D=gt&cval%5B3%5D=0&cstat%5B3%5D=pass_att&height_min=60)
 
-A glossery can be found [here](https://github.com/mrotblut/QB-Height/blob/main/full_glossery.txt)
+A glossery can be found [here.](https://github.com/mrotblut/QB-Height/blob/main/full_glossery.txt)
+
 The data is filtered for Quarterbacks that have started 12 or more games in the regular season from 1920 to present. The breakdown of the dataset by height is below.
 
 |Height|Count|

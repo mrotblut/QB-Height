@@ -1,0 +1,19 @@
+---
+title: "Does Height Affect Quarterbacks"
+output: html_document
+author: "Max Rotblut"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE,message=FALSE,warning=FALSE,error=TRUE,
+                      fig.width=6,fig.height=6,fig.align='center')
+library(tidyverse)
+```
+
+# Read in the Data
+
+```{r}
+qb = read_csv('qb_starters.csv')
+ggplot(qb, aes(x='Ht.', y='Yds')) + geom_boxplot()
+qb
+```
+
